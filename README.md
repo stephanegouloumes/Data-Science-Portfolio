@@ -1,4 +1,4 @@
-# Summary
+# Data Science Portfolio by Stephane Gouloumes
 
 This repository contains all the personal projects in Data Science I've been working on.
 
