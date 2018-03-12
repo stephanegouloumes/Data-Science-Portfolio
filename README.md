@@ -8,11 +8,11 @@ I decided to create my own Deep Learning library to have an in-depth understandi
 The goal of this project was to create a simple DNN. But it evolved, and then, I wanted to implement the mains steps of a CNN.
 
 It is structured into several classes :
-	..* Model : the main component of the library, in charge of creating the NN, handling forward, backpropagation and making predictions
-	..* Dense : a simple dense layer
-	..* Conv2D : a 2D convulational layer
-	..* Pool : a pooling layer
-	..* Activation : this class computes the activation function of a layer (three functions are available : Sigmoid, ReLu and Softmax)
+* Model : the main component of the library, in charge of creating the NN, handling forward, backpropagation and making predictions
+* Dense : a simple dense layer
+* Conv2D : a 2D convulational layer
+* Pool : a pooling layer
+* Activation : this class computes the activation function of a layer (three functions are available : Sigmoid, ReLu and Softmax)
 
 [Link](https://github.com/stephanegouloumes/data-science-portfolio/blob/master/DL_Library/main.py)
 
