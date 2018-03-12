@@ -19,6 +19,7 @@ It is structured into several classes :
 ## 2. Prediction of the Success of Kickstart Projects (Classification)
 
 Exploratory data analysis to detect the key success factors of a Kickstarter project.
+
 Then, I used the most important features to predict the success of a project. It uses classification techniques such as Logistic Regression and Random Forest.
 
 [Link](https://github.com/stephanegouloumes/data-science-portfolio/blob/master/01_Kickstarter_Projects_Analysis/main.ipynb)
