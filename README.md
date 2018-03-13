@@ -2,6 +2,9 @@
 
 This repository contains all the personal projects in Data Science I've been working on.
 
+* Kaggle : https://www.kaggle.com/steyf03
+* Linkedin : https://www.linkedin.com/in/stephane-gouloumes
+
 ## 1. Deep Learning Library
 
 I decided to create my own Deep Learning library to have an in-depth understanding of ANN, more specifically the backpropagation process.
