@@ -23,7 +23,7 @@ It is structured into several classes :
 
 Elaboration of common ML algorithms from scratch.
 
-[Link](https://github.com/stephanegouloumes/data-science-portfolio/tree/master/ML_Algorithms/README.md)
+[Link](https://github.com/stephanegouloumes/data-science-portfolio/tree/master/ML_Algorithms)
 
 ## 3. Prediction of the Success of Kickstart Projects (Classification)
 
