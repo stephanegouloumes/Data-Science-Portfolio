@@ -17,20 +17,26 @@ It is structured into several classes :
 * Pool : a pooling layer
 * Activation : this class computes the activation function of a layer (three functions are available : Sigmoid, ReLu and Softmax)
 
-[Link](https://github.com/stephanegouloumes/data-science-portfolio/blob/master/DL_Library/main.py)
+[Link](https://github.com/stephanegouloumes/data-science-portfolio/tree/master/DL_Library/main.py)
 
-## 2. Prediction of the Success of Kickstart Projects (Classification)
+## 2. Machine Learning Algorithms
+
+Elaboration of common ML algorithms from scratch.
+
+[Link](https://github.com/stephanegouloumes/data-science-portfolio/tree/master/ML_Algorithms/README.md)
+
+## 3. Prediction of the Success of Kickstart Projects (Classification)
 
 Exploratory data analysis to detect the key success factors of a Kickstarter project.
 
 Then, I used the most important features to predict the success of a project. It uses classification techniques such as Logistic Regression and Random Forest.
 
-[Link](https://github.com/stephanegouloumes/data-science-portfolio/blob/master/01_Kickstarter_Projects_Analysis/main.ipynb)
+[Link](https://github.com/stephanegouloumes/data-science-portfolio/tree/master/01_Kickstarter_Projects_Analysis/main.ipynb)
 
-## 3. Boston Housing Prices (Regression)
+## 4. Boston Housing Prices (Regression)
 
-[Link](https://github.com/stephanegouloumes/data-science-portfolio/blob/master/02_Boston_Housing_Prices/main.ipynb)
+[Link](https://github.com/stephanegouloumes/data-science-portfolio/tree/master/02_Boston_Housing_Prices/main.ipynb)
 
-## 4. Titanic (Classification)
+## 5. Titanic (Classification)
 
-[Link](https://github.com/stephanegouloumes/data-science-portfolio/blob/master/03_Titanic_Classification/main.ipynb)
+[Link](https://github.com/stephanegouloumes/data-science-portfolio/tree/master/03_Titanic_Classification/main.ipynb)
